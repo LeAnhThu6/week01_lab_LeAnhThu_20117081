@@ -4,11 +4,11 @@ Bài tập WWW lab week 01
 
 ## Project structure
 
-![Alt text](./img/image.png)
+![Alt text](./img/structure.png)
 
 ## Database 
 
-![Alt text](./img/csdl.png)
+![Alt text](./img/database.png)
 
 ## Chức năng
 
@@ -22,7 +22,7 @@ Bài tập WWW lab week 01
 
 ## Khởi chạy
 
-- Clone dự án tại link này
-- Chạy file week01_db_script.sql
-- Chạy file Init.java
+- Clone dự án
+- Chạy file [week01_db_script] để tạo database
+- Chạy file [Init] để khởi tạo 2 account
 - Chạy Tomcat và xem tại http://localhost:8080
